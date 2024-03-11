@@ -1,3 +1,1 @@
-# music-room
-# music-room
-# music-room
+# App developed with Django and React
